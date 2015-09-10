@@ -1,0 +1,40 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+momentjs:moment
+accounts-ui
+accounts-password
+coffeescript
+mquandalle:jade
+mquandalle:stylus
+loneleeandroo:polymerize
+manuel:viewmodel
+ongoworks:security
+sanjo:jasmine
+alanning:roles
+numeral:numeral
+practicalmeteor:loglevel
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+matteodem:easy-security
+matteodem:easy-search
+arillo:flow-router-helpers
+kadira:flow-router
+kadira:blaze-layout
+meteorhacks:fast-render
+appcache
